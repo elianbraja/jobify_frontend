@@ -1,0 +1,25 @@
+.home {
+  background-image: url("../../images/wallpaper4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  display: -webkit-flex;
+  display: flex;
+  flex-flow: column;
+  text-align: center;
+  letter-spacing: 2px;
+  color: rgb(151, 151, 151);
+}
+
+.home p {
+  font-size: 17px;
+}
+
+/* .home img {
+  width: 300px;
+  margin-top: 20px;
+} */
